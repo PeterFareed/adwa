@@ -1,0 +1,6 @@
+owner=547091659553243138
+prefix=8
+game=Break | 8play
+stayinchannel=true
+songinstatus=false
+token=NTkxMDczNTM1NDMxMTQ3NTIw.XQreJA.nZBxKpekza-BPxEb1N_dt0tBbA4
